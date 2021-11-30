@@ -2,6 +2,9 @@
 
 <a href="https://github.com/jmoniz155"><img src="https://img.shields.io/github/followers/jmoniz155?style=social" target="_blank" /></a>
     
+Welcome to my github profile! I have learned so much in this coding bootcamp. I am super excited to see what kind of opportunities this will lead to. 
+
+Currently attending UCSD coding bootcamp in San Diego CA and will be graduating Dec. 7, 2021.  I will be reviewing all class content while in search of new beginnings. I would be interested in any entry level position available that has room for growth and stability.
 
 <a href= "https://github.com/jmoniz155/progressive-budget/" target="_blank"><img src="https://github.com/jmoniz155/progressive-budget/raw/main/image/pwa-budget.jpg" alt="portfolio image" width="19%"/></a> <a href= "https://github.com/jmoniz155/object-relational-mapping/" target="_blank"><img src="https://github.com/jmoniz155/object-relational-mapping-/raw/main/assets/13-orm-homework-demo-01.gif" alt="portfolio image" width="19%"/></a> <a href= "https://github.com/jmoniz155/employee-tracker/" target="_blank"><img src="https://github.com/jmoniz155/employee-tracker/raw/main/assets/emp.tracker.JPG" alt="portfolio image" width="19%"/></a> <a href= "https://github.com/jmoniz155/fitness-tracker/" target="_blank"><img src="https://github.com/jmoniz155/fitness-tracker/raw/main/image/fitness-tracker-img.jpg" alt="portfolio image" width="19%"/></a> <a href= "https://github.com/jmoniz155/book-search-engine/" target="_blank"><img src="https://github.com/jmoniz155/book-search-engine/raw/main/image/booksearch.jpg" alt="portfolio image" width="19%"/></a>
 
