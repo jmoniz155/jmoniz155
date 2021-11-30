@@ -3,7 +3,7 @@
 <a href="https://github.com/jmoniz155"><img src="https://img.shields.io/github/followers/jmoniz155?style=social" target="_blank" /></a>
     
 
-<a href= "https://github.com/jmoniz155/progressive-budget/">
+<a href= "https://github.com/jmoniz155/progressive-budget/" target="_blank">
 <img src="https://github.com/jmoniz155/progressive-budget/raw/main/image/pwa-budget.jpg" alt="portfolio image" width="20%"/>
 </a>
 
