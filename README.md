@@ -3,9 +3,7 @@
 <a href="https://github.com/jmoniz155"><img src="https://img.shields.io/github/followers/jmoniz155?style=social" target="_blank" /></a>
     
 
-<a href= "https://github.com/jmoniz155/progressive-budget/" target="_blank">
-<img src="https://github.com/jmoniz155/progressive-budget/raw/main/image/pwa-budget.jpg" alt="portfolio image" width="20%"/>
-</a>
+<a href= "https://github.com/jmoniz155/progressive-budget/" target="_blank"><img src="https://github.com/jmoniz155/progressive-budget/raw/main/image/pwa-budget.jpg" alt="portfolio image" width="19%"/></a> <a href= "https://github.com/jmoniz155/object-relational-mapping/" target="_blank"><img src="https://github.com/jmoniz155/object-relational-mapping-/raw/main/assets/13-orm-homework-demo-01.gif" alt="portfolio image" width="19%"/></a> <a href= "https://github.com/jmoniz155/employee-tracker/" target="_blank"><img src="https://github.com/jmoniz155/employee-tracker/raw/main/assets/emp.tracker.JPG" alt="portfolio image" width="19%"/></a> <a href= "https://github.com/jmoniz155/fitness-tracker/" target="_blank"><img src="https://github.com/jmoniz155/fitness-tracker/raw/main/image/fitness-tracker-img.jpg" alt="portfolio image" width="19%"/></a> <a href= "https://github.com/jmoniz155/book-search-engine/" target="_blank"><img src="https://github.com/jmoniz155/book-search-engine/raw/main/image/booksearch.jpg" alt="portfolio image" width="19%"/></a>
 
 
 
